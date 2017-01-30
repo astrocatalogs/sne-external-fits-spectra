@@ -1,20 +1,26 @@
 {
 	"sn2014C-20140109-flwo.fits":{
-		"name":"SN2014C"
+		"name":"SN2014C",
+		"bibcode":"2015ApJ...815..120M"
 	},
 	"sn2014C-20140506-mmt.fits":{
-		"name":"SN2014C"
+		"name":"SN2014C",
+		"bibcode":"2015ApJ...815..120M"
 	},
 	"sn2014C-20150121-mmt.fits":{
-		"name":"SN2014C"
+		"name":"SN2014C",
+		"bibcode":"2015ApJ...815..120M"
 	},
 	"sn2014C-20141022-lbt.fits":{
-		"name":"SN2014C"
+		"name":"SN2014C",
+		"bibcode":"2015ApJ...815..120M"
 	},
 	"sn2014C-20150425-mmt-hires.fits":{
-		"name":"SN2014C"
+		"name":"SN2014C",
+		"bibcode":"2015ApJ...815..120M"
 	},
 	"SN09lq_comb_DUP_WF_20mar10.fits":{
-		"name":"SN2009lc"
+		"name":"SN2009lc",
+		"bibcode":"2015ApJ...815..120M"
 	}
 }
