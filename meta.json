@@ -22,5 +22,8 @@
 	"SN09lq_comb_DUP_WF_20mar10.fits":{
 		"name":"SN2009lc",
 		"bibcode":"2015ApJ...815..120M"
+	},
+	"sn92as.02aug92.fits":{
+		"name":"SN1992as"
 	}
 }
