@@ -144906,5 +144906,714 @@
 	"GRB 991011C":[
 		1502300967.1367204,
 		[]
+	],
+	"AT2017fze":[
+		1502375844.1393807,
+		[]
+	],
+	"SN2017fgk":[
+		1502375893.9012625,
+		[]
+	],
+	"DES16X2cpn":[
+		1502375982.7243838,
+		[]
+	],
+	"PSN J1001208+555350":[
+		1502376029.353441,
+		[
+			{
+				"target_classification":"GALAXY;QSO",
+				"obsid":"2003963236",
+				"t_min":51978.54,
+				"t_max":51978.5655,
+				"instrument_name":"STIS/NUV-MAMA",
+				"proposal_pi":"Hutchings"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806298",
+				"t_min":49743.65023,
+				"t_max":49743.65125,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809282",
+				"t_min":50025.51657,
+				"t_max":50025.52249,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809287",
+				"t_min":50038.86068,
+				"t_max":50038.86659,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809292",
+				"t_min":50051.79031,
+				"t_max":50051.79622,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809297",
+				"t_min":50065.99072,
+				"t_max":50065.99662,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809277",
+				"t_min":50010.76569,
+				"t_max":50010.77161,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM - EXTRAGALACTIC;DAMPED LYMAN ALPHA CLOUD;EXT-MEDIUM;GALAXY;QUASAR",
+				"obsid":"2003966216",
+				"t_min":51698.01419,
+				"t_max":51698.02512,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Cohen"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM - EXTRAGALACTIC;DAMPED LYMAN ALPHA CLOUD;EXT-MEDIUM;GALAXY;QUASAR",
+				"obsid":"2003966217",
+				"t_min":51698.028,
+				"t_max":51698.03615,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Cohen"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM - EXTRAGALACTIC;DAMPED LYMAN ALPHA CLOUD;EXT-MEDIUM;GALAXY;QUASAR",
+				"obsid":"2003966219",
+				"t_min":51697.48927,
+				"t_max":51697.51131,
+				"instrument_name":"STIS/NUV-MAMA",
+				"proposal_pi":"Cohen"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806305",
+				"t_min":49743.84241,
+				"t_max":49743.84525,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806302",
+				"t_min":49743.70191,
+				"t_max":49743.70309,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806303",
+				"t_min":49743.73338,
+				"t_max":49743.77588,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806304",
+				"t_min":49743.80081,
+				"t_max":49743.8365,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806300",
+				"t_min":49743.67902,
+				"t_max":49743.69534,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806299",
+				"t_min":49743.66781,
+				"t_max":49743.67485,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806291",
+				"t_min":49743.47406,
+				"t_max":49743.47507,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"GALAXY;QSO",
+				"obsid":"2003962866",
+				"t_min":51153.53845,
+				"t_max":51153.56674,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Lanzetta"
+			},
+			{
+				"target_classification":"GALAXY;QSO",
+				"obsid":"2003962867",
+				"t_min":51153.59019,
+				"t_max":51153.89581,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Lanzetta"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM - EXTRAGALACTIC;EXT-MEDIUM;GALAXY",
+				"obsid":"2003974855",
+				"t_min":51795.27664,
+				"t_max":51795.294,
+				"instrument_name":"STIS/NUV-MAMA",
+				"proposal_pi":"Charlton"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806297",
+				"t_min":49743.64105,
+				"t_max":49743.6439,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806292",
+				"t_min":49743.48126,
+				"t_max":49743.4883,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809293",
+				"t_min":50065.91931,
+				"t_max":50065.9199,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809288",
+				"t_min":50051.7177,
+				"t_max":50051.71829,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809283",
+				"t_min":50038.78906,
+				"t_max":50038.78965,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806295",
+				"t_min":49743.53166,
+				"t_max":49743.57415,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806296",
+				"t_min":49743.59895,
+				"t_max":49743.6351,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809278",
+				"t_min":50025.4745,
+				"t_max":50025.47509,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM;BLR;EXT-MEDIUM;GALAXY;GRAVITATIONAL LENS;IGM;LYMAN ALPHA CLOUD;QUASAR",
+				"obsid":"2003806293",
+				"t_min":49743.49247,
+				"t_max":49743.50878,
+				"instrument_name":"FOS/RD",
+				"proposal_pi":"Burbidge"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809273",
+				"t_min":50010.69435,
+				"t_max":50010.69494,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM - EXTRAGALACTIC;DAMPED LYMAN ALPHA CLOUD;EXT-MEDIUM;GALAXY;QUASAR",
+				"obsid":"2003966215",
+				"t_min":51283.25928,
+				"t_max":51283.2813,
+				"instrument_name":"STIS/NUV-MAMA",
+				"proposal_pi":"Cohen"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM - EXTRAGALACTIC;DAMPED LYMAN ALPHA CLOUD;EXT-MEDIUM;GALAXY;QUASAR",
+				"obsid":"2003966212",
+				"t_min":51283.92588,
+				"t_max":51283.93681,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Cohen"
+			},
+			{
+				"target_classification":"ABSORPTION LINE SYSTEM - EXTRAGALACTIC;DAMPED LYMAN ALPHA CLOUD;EXT-MEDIUM;GALAXY;QUASAR",
+				"obsid":"2003966213",
+				"t_min":51283.93969,
+				"t_max":51283.94784,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Cohen"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809296",
+				"t_min":50065.98241,
+				"t_max":50065.98736,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809291",
+				"t_min":50051.782,
+				"t_max":50051.78696,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809286",
+				"t_min":50038.85237,
+				"t_max":50038.85733,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809281",
+				"t_min":50025.50826,
+				"t_max":50025.51322,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809276",
+				"t_min":50010.75738,
+				"t_max":50010.76234,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809295",
+				"t_min":50065.93409,
+				"t_max":50065.94347,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809290",
+				"t_min":50051.73248,
+				"t_max":50051.74186,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809285",
+				"t_min":50038.80384,
+				"t_max":50038.81322,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809280",
+				"t_min":50025.49192,
+				"t_max":50025.50131,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809275",
+				"t_min":50010.70913,
+				"t_max":50010.71851,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809294",
+				"t_min":50065.92523,
+				"t_max":50065.92825,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809289",
+				"t_min":50051.72362,
+				"t_max":50051.72664,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809274",
+				"t_min":50010.70028,
+				"t_max":50010.7033,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809284",
+				"t_min":50038.79499,
+				"t_max":50038.79801,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			},
+			{
+				"target_classification":"GALAXY;GRAVITATIONAL LENS;QUASAR",
+				"obsid":"2003809279",
+				"t_min":50025.48043,
+				"t_max":50025.48347,
+				"instrument_name":"FOS/BL",
+				"proposal_pi":"Bless"
+			}
+		]
+	],
+	"PSN J05573917-5158201":[
+		1502376070.7350855,
+		[]
+	],
+	"CSS111022:205145+075305":[
+		1502376109.0401454,
+		[]
+	],
+	"PSN J13272469-2719190":[
+		1502376150.5249228,
+		[]
+	],
+	"CSS110525:140118-112359":[
+		1502376227.8957129,
+		[]
+	],
+	"CSS170604:223934+145306":[
+		1502376309.645715,
+		[]
+	],
+	"CSS071109:231759+153303":[
+		1502376350.8571641,
+		[]
+	],
+	"SNF20080703-002":[
+		1502376391.0709713,
+		[]
+	],
+	"PS1-14agh":[
+		1502376429.7471719,
+		[]
+	],
+	"MLS160903:215010+281550":[
+		1502376469.768408,
+		[]
+	],
+	"CSS141024:084621+132037":[
+		1502376509.796365,
+		[]
+	],
+	"PS15aiu":[
+		1502376548.0750668,
+		[]
+	],
+	"MLS170306:141739+155746":[
+		1502376587.138173,
+		[]
+	],
+	"MLS131228:011949+080645":[
+		1502376626.945202,
+		[]
+	],
+	"PS1-14no":[
+		1502376665.9402187,
+		[]
+	],
+	"PSN J11423452+2628187":[
+		1502376706.5288267,
+		[]
+	],
+	"PS15cvj":[
+		1502376745.2350404,
+		[]
+	],
+	"PS1-13czh":[
+		1502376782.0617146,
+		[]
+	],
+	"MLS170503:133842+092054":[
+		1502376821.8115542,
+		[]
+	],
+	"MLS140619:160749+093813":[
+		1502376859.0949702,
+		[]
+	],
+	"MLS170514:145900+094912":[
+		1502376896.975413,
+		[]
+	],
+	"CSS110429:143859+125116":[
+		1502376934.211957,
+		[]
+	],
+	"OGLE16eef":[
+		1502376972.5438852,
+		[]
+	],
+	"CSS130223:123031+214155":[
+		1502377009.184985,
+		[]
+	],
+	"PS15cif":[
+		1502377047.5145664,
+		[]
+	],
+	"MLS141228:025944+165151":[
+		1502377085.4734724,
+		[]
+	],
+	"PS15ul":[
+		1502377121.5034597,
+		[]
+	],
+	"PS15bin":[
+		1502377158.8965273,
+		[]
+	],
+	"PS1-14ay":[
+		1502377194.866997,
+		[]
+	],
+	"PS1-13drc":[
+		1502377238.1805599,
+		[]
+	],
+	"MLS110429:114433-001908":[
+		1502377278.8740625,
+		[]
+	],
+	"OGLE15fn":[
+		1502377318.611414,
+		[]
+	],
+	"MLS140308:144720-130315":[
+		1502377358.5772994,
+		[]
+	],
+	"CSS160205:151816+241901":[
+		1502377437.416301,
+		[]
+	],
+	"PS1-14vl":[
+		1502377476.358331,
+		[]
+	],
+	"PS15buv":[
+		1502377516.1751072,
+		[]
+	],
+	"OGLE16gfy":[
+		1502377592.8264298,
+		[]
+	],
+	"PS1-14pg":[
+		1502377631.9729717,
+		[]
+	],
+	"MLS160310:114254+102852":[
+		1502378713.7914417,
+		[]
+	],
+	"PS15dbt":[
+		1502378750.1423948,
+		[]
+	],
+	"PS15dx":[
+		1502378791.6197326,
+		[]
+	],
+	"PS1-14pn":[
+		1502378830.9974346,
+		[]
+	],
+	"PS15dmr":[
+		1502378867.363955,
+		[]
+	],
+	"PS15ctc":[
+		1502378905.472483,
+		[]
+	],
+	"MLS160604:120854+253122":[
+		1502378941.693056,
+		[]
+	],
+	"PS15bmf":[
+		1502378979.0865266,
+		[]
+	],
+	"PS15ats":[
+		1502379021.140036,
+		[]
+	],
+	"MLS150923:082447+184729":[
+		1502379061.8560236,
+		[]
+	],
+	"PS15pi":[
+		1502379100.9913893,
+		[]
+	],
+	"SNHiTS15bt":[
+		1502379140.8534214,
+		[]
+	],
+	"PS1-14aku":[
+		1502379215.1118076,
+		[]
+	],
+	"PS15das":[
+		1502379289.4466155,
+		[]
+	],
+	"PS1-14aji":[
+		1502379327.127812,
+		[]
+	],
+	"HSC-SN15d":[
+		1502379367.6583478,
+		[]
+	],
+	"Nova M31 2014-09c?":[
+		1502379412.2189507,
+		[]
+	],
+	"PSN J07565948+4934090":[
+		1502379454.0482962,
+		[]
+	],
+	"AT2016epc":[
+		1502379491.1245768,
+		[]
+	],
+	"PS15cwa":[
+		1502380022.5200627,
+		[]
+	],
+	"GRB 160804A":[
+		1502380059.423474,
+		[]
+	],
+	"GRB 150309A":[
+		1502380097.9191926,
+		[]
+	],
+	"GRB 131103A":[
+		1502380133.2667184,
+		[]
+	],
+	"GRB 120803A":[
+		1502380170.1317055,
+		[]
+	],
+	"GRB 110212A":[
+		1502380209.1373556,
+		[]
+	],
+	"GRB 090728A":[
+		1502380246.3392937,
+		[]
+	],
+	"GRB 080613B":[
+		1502380282.6838808,
+		[]
+	],
+	"GRB 070306A":[
+		1502380320.5315802,
+		[]
+	],
+	"GRB 060115A":[
+		1502380360.348137,
+		[]
+	],
+	"MLS151001:003006+043732":[
+		1502380396.7362068,
+		[]
+	],
+	"MLS110213:103245+113142":[
+		1502380433.9951859,
+		[]
+	],
+	"ESSENCEb024":[
+		1502380471.6722803,
+		[]
+	],
+	"ESSENCEn395":[
+		1502380509.903423,
+		[]
+	],
+	"ESSENCEx055":[
+		1502380546.9194136,
+		[]
+	],
+	"GRB 970417C":[
+		1502380584.5949812,
+		[]
+	],
+	"GRB 971020A":[
+		1502380621.5670373,
+		[]
+	],
+	"GRB 980520A":[
+		1502380659.1419852,
+		[]
+	],
+	"GRB 990308A":[
+		1502380696.1456008,
+		[]
+	],
+	"GRB 990904B":[
+		1502380732.8931873,
+		[]
+	],
+	"GRB 000518A":[
+		1502380769.8563128,
+		[]
 	]
 }
