@@ -1,0 +1,75 @@
+quit
+ctype red
+data SN04ej_b01_DUP_WF_19sep04.dat
+lines  1 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 - 8
+set wave = wave
+connect wave flux
+relocate 9970 12.5
+label 19/09/04
+ctype blue
+data SN04ej_b01_DUP_WF_20sep04.dat
+lines  1 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 - 2.5
+set wave = wave
+connect wave flux
+relocate 9970 15.5
+label 20/09/04
+ctype magenta
+data SN04ej_b01_CLA_LD_24oct04.dat
+lines  1 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 - 1
+set wave = wave
+connect wave flux
+relocate 9970 18
+label 24/10/04
+ctype gray
+data SN04ej_b01_DUP_WF_17nov04.dat
+lines  1 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 + 1.8
+set wave = wave
+connect wave flux
+relocate 9970 21
+label 17/11/04
+ctype color5
+data SN04ej_b01_CLA_LD_26nov04.dat
+lines  1 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 + 5
+set wave = wave
+connect wave flux
+relocate 9970 24
+label 26/11/04
+ctype color1
+data SN04ej_b01_DUP_WF_04dec04.dat
+lines  60 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 + 7.5
+set wave = wave
+connect wave flux
+relocate 9970 26
+label 04/12/04
+ctype color7
+data SN04ej_b01_DUP_WF_13dec04.dat
+lines  60 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 + 9.7
+set wave = wave
+connect wave flux
+relocate 9970 30.5
+label 13/12/04
+ctype dgreen
+data SN04ej_b01_CLA_LD_19dec04.dat
+lines  60 9999
+read {wave 1 flux 2}
+set flux= (-2.5 * 0.434 * ln((flux*(wave**2))/3.e18) ) -48.595 + 13.5
+set wave = wave
+connect wave flux
+relocate 9970 33.5
+label 19/12/04
+}}}}}
+quit

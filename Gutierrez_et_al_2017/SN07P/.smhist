@@ -1,0 +1,25 @@
+quit
+relocate 7400
+quit
+ctype black
+ltype 1
+relocate 0 0
+draw 0 37
+relocate 5000 0
+draw 5000 37
+relocate -5000 0
+draw -5000 37
+relocate 10000 0
+draw 10000 37
+relocate -10000 0
+draw -10000 37
+relocate -15000 0
+draw -15000 37
+relocate 15000 0
+draw 15000 37
+relocate -20000 0
+draw -20000 37
+relocate 20000 0
+draw 20000 37
+ltype 0
+quit
